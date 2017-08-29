@@ -1,0 +1,9 @@
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\bin\Debug\Demo.SimpleWeb.exe.config
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\bin\Debug\Demo.SimpleWeb.exe
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\bin\Debug\Demo.SimpleWeb.pdb
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\bin\Debug\HtmlAgilityPack.dll
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\bin\Debug\HtmlAgilityPack.xml
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\obj\Debug\Demo.SimpleWeb.csprojResolveAssemblyReference.cache
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\obj\Debug\Demo.SimpleWeb.exe
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Demo.SimpleWeb\Demo.SimpleWeb\obj\Debug\Demo.SimpleWeb.pdb
